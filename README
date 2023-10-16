@@ -1,2 +1,5 @@
 /send
 in queryStringParams, use "user_input" param to send question
+server:
+https://backend-to-watson-ai-93f8df9174f6.herokuapp.com/
+
