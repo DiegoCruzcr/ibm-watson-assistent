@@ -1,0 +1,2 @@
+/send
+in queryStringParams, use "user_input" param to send question
