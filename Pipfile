@@ -7,6 +7,8 @@ name = "pypi"
 flask = "*"
 requests = "*"
 gunicorn = "*"
+ibm-watson = "*"
+ibm-cloud-sdk-core = "*"
 
 [dev-packages]
 
